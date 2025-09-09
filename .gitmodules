@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Byte-Benders-Fatec/api-2sem-2025-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Byte-Benders-Fatec/api-2sem-2025-backend.git
+[submodule "database"]
+	path = database
+	url = https://github.com/Byte-Benders-Fatec/api-2sem-2025-database.git
