@@ -43,8 +43,7 @@ O problema central a ser enfrentado é a ausência de endereços formais para gr
 - **Frameworks / UI:** React e React Native.  
 - **Plataforma alvo:** SO Android / Android SDK.  
 - **Bancos de dados:** NoSQL (MongoDB) e Relacional (MySQL).  
-- **Arquitetura:** Microsserviços.  
-- Observações: priorizar práticas que facilitem escalabilidade, versionamento de APIs e integração contínua.
+- **Arquitetura:** Microsserviços. 
 
 :link: [(Voltar ao topo)](#bookmark_tabs-índice)
 
@@ -66,8 +65,6 @@ O problema central a ser enfrentado é a ausência de endereços formais para gr
 | Thiago Ribeiro | Dev Team | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/yrnThiago) |
 | Ana Clara Becker | Dev Team | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ninabtolo) |
 | André Augusto | Dev Team | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/andreN4vs) |
-
-> Observação: se quiser eu transformo essa tabela em badges separados ou adiciono avatars/GitHub actions status.
 
 :link: [(Voltar ao topo)](#bookmark_tabs-índice)
 
