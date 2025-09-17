@@ -40,8 +40,6 @@ O problema central a ser enfrentado é a ausência de endereços formais para gr
 - [Definition of Ready (DoR)](documentos/DoR.md) — critérios mínimos para uma story entrar na sprint.  
 - [Definition of Done (DoD)](documentos/DoD.md) — critérios que definem quando uma entrega está concluída.
 
-> Observação: os arquivos acima devem existir no caminho `documentos/DoR.md` e `documentos/DoD.md`. Se estiverem em `docs/` ou com outro nome, atualize os links.
-
 :link: [(Voltar ao topo)](#bookmark_tabs-índice)
 
 ## :hammer_and_wrench: Tecnologias Utilizadas
