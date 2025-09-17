@@ -5,6 +5,7 @@
 ## :bookmark_tabs: Índice
 - [:scroll: Descrição](#scroll-descrição)  
 - [:memo: Backlog do Produto](#memo-backlog-do-produto)  
+- [:gear: Processos (DoR / DoD)](#gear-processos-dor--dod)  
 - [:hammer_and_wrench: Tecnologias Utilizadas](#hammer_and_wrench-tecnologias-utilizadas)  
 - [:building_construction: MPV](#building_construction-mpv)  
 - [:busts_in_silhouette: Equipe](#busts_in_silhouette-equipe)  
@@ -32,6 +33,14 @@ O problema central a ser enfrentado é a ausência de endereços formais para gr
 | 9 | Alta | Como usuário, quero receber alertas de acidentes na rota para ajustar meu trajeto. | 3 | Sprint 3 |
 | 10 | Alta | Como usuário, quero visualizar alertas climáticos para planejar melhor minha viagem. | 3 | Sprint 3 |
 | 11 | Baixa | Como usuário, quero acessar o aplicativo sem internet para consultar minhas propriedades salvas. | 6 | Sprint 3 |
+
+:link: [(Voltar ao topo)](#bookmark_tabs-índice)
+
+## :gear: Processos (DoR / DoD)
+- [Definition of Ready (DoR)](documentos/DoR.md) — critérios mínimos para uma story entrar na sprint.  
+- [Definition of Done (DoD)](documentos/DoD.md) — critérios que definem quando uma entrega está concluída.
+
+> Observação: os arquivos acima devem existir no caminho `documentos/DoR.md` e `documentos/DoD.md`. Se estiverem em `docs/` ou com outro nome, atualize os links.
 
 :link: [(Voltar ao topo)](#bookmark_tabs-índice)
 
