@@ -7,3 +7,6 @@
 [submodule "database"]
 	path = database
 	url = https://github.com/Byte-Benders-Fatec/api-2sem-2025-database.git
+[submodule "infra"]
+	path = infra
+	url = https://github.com/Byte-Benders-Fatec/api-2sem-2025-infra.git
