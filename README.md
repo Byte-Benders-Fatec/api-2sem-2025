@@ -9,7 +9,7 @@
 - [:hammer_and_wrench: Tecnologias Utilizadas](#hammer_and_wrench-tecnologias-utilizadas)  
 - [:building_construction: MPV](#building_construction-mpv)  
 - [:busts_in_silhouette: Equipe](#busts_in_silhouette-equipe)  
-- [:calendar: Calendário API](#calendar-calendário-api)  
+- [:calendar: Calendário API](#calendar)  
 
 ## :scroll: Descrição
 O desafio proposto consiste no desenvolvimento de um aplicativo móvel multiplataforma (Android), em **React Native**, voltado ao endereçamento digital rural e à roteirização rural para imóveis cadastrados no Cadastro Ambiental Rural (CAR). A solução deverá ser implementada com **arquitetura de microsserviços**. Além disso, o sistema deve ser projetado de forma flexível e escalável, possibilitando evoluções, melhorias e a incorporação de novas funcionalidades de maneira ágil e prática, sem necessidade de retrabalho.
@@ -44,10 +44,8 @@ O problema central a ser enfrentado é a ausência de endereços formais para gr
 
 ## :hammer_and_wrench: Tecnologias Utilizadas
 **Principais escolhas e requisitos técnicos**
-- Implementar Aplicação com **ORM** em BD Relacional.  
-- Implementar Aplicação com persistência de **JSON** (ex.: MongoDB).  
-- **Linguagens:** TypeScript e JavaScript.  
-- **Frameworks / UI:** React e React Native.  
+- **Linguagens:** TypeScript.  
+- **Frameworks / UI:** React Native.  
 - **Plataforma alvo:** SO Android / Android SDK.  
 - **Bancos de dados:** NoSQL (MongoDB) e Relacional (MySQL).  
 - **Arquitetura:** Microsserviços. 
@@ -63,15 +61,15 @@ O problema central a ser enfrentado é a ausência de endereços formais para gr
 
 ## :busts_in_silhouette: Equipe
 
-| Nome | Função | GitHub |
-|------|--------|--------|
-| Diego Castro | Dev Team | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Diegocastro5) |
-| Henrique Bitencourt | Product Owner | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/hriquen) |
-| Joniel Oliveira | Dev Team | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JonielOliveira) |
-| Lucas Cassiano | Scrum Master | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasCassiano1) |
-| Thiago Ribeiro | Dev Team | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/yrnThiago) |
-| Ana Clara Becker | Dev Team | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ninabtolo) |
-| André Augusto | Dev Team | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/andreN4vs) |
+| Foto | Nome | Função | GitHub |
+|------|------|--------|--------|
+| <img src="https://github.com/user-attachments/assets/0c1c6586-c02d-44cc-9b16-9d0b4fddf90d" width="80" /> | **Lucas** | *Desenvolvedor / Frontend* | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasCassiano1) |
+| <img src="https://github.com/user-attachments/assets/76932cb1-a024-413e-b6c8-df1c124d6fbb" width="80" /> | **Diego Castro** | Dev Team | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Diegocastro5) |
+| <img src="https://github.com/user-attachments/assets/39f54291-4c1c-42c6-bcd6-e63627e748e6" width="80" /> | **Henrique Bitencourt** | Product Owner | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/hriquen) |
+| <img src="https://github.com/user-attachments/assets/d792373f-3d37-4dd9-be8f-5ebe1413c646" width="80" /> | **Joniel Oliveira** | Dev Team | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JonielOliveira) |
+| <img src="https://github.com/user-attachments/assets/2bbe17aa-6241-4133-8c2b-79b22a12e0c7" width="80" /> | **Thiago Ribeiro** | Dev Team | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/yrnThiago) |
+| <img src="https://github.com/user-attachments/assets/d4372590-8840-414c-b42c-3397b3a83dc2" width="80" /> | **Ana Clara Becker** | Dev Team | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ninabtolo) |
+| <img src="https://github.com/user-attachments/assets/a2c59847-0d99-45e5-8b9f-c94406f4de59" width="80" /> | **André Augusto** | Dev Team | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/andreN4vs) |
 
 :link: [(Voltar ao topo)](#bookmark_tabs-índice)
 
@@ -80,8 +78,8 @@ O problema central a ser enfrentado é a ausência de endereços formais para gr
 | Status | Evento | Data / Período |
 |:------:|:------:|:--------------:|
 | ✔️ | Kick-off Geral | 25/08 a 29/08/2025 |
-| ➡️ | Sprint 1 | 08/09 a 28/09/2025 |
-| ⏳ | Sprint Review / Planning | 29/09 a 03/10/2025 |
+| ✔️ | Sprint 1 | 08/09 a 28/09/2025 |
+| ➡️ | Sprint Review / Planning | 29/09 a 03/10/2025 |
 | ⏳ | Sprint 2 | 06/10 a 26/10/2025 |
 | ⏳ | Sprint Review / Planning | 27/10 a 31/10/2025 |
 | ⏳ | Sprint 3 | 03/11 a 23/11/2025 |
