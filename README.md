@@ -84,8 +84,8 @@ https://github.com/user-attachments/assets/3613d03f-141d-46a0-b1dc-0d00207c66f0
 |:------:|:------:|:--------------:|
 | ✔️ | Kick-off Geral | 25/08 a 29/08/2025 |
 | ✔️ | Sprint 1 | 08/09 a 28/09/2025 |
-| ➡️ | Sprint Review / Planning | 29/09 a 03/10/2025 |
-| ⏳ | Sprint 2 | 06/10 a 26/10/2025 |
+| ✔️ | Sprint Review / Planning | 29/09 a 03/10/2025 |
+| ➡️ | Sprint 2 | 06/10 a 26/10/2025 |
 | ⏳ | Sprint Review / Planning | 27/10 a 31/10/2025 |
 | ⏳ | Sprint 3 | 03/11 a 23/11/2025 |
 | ⏳ | Sprint Review | 24/11 a 28/11/2025 |
