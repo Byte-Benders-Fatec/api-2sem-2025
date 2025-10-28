@@ -81,7 +81,7 @@ https://github.com/user-attachments/assets/3613d03f-141d-46a0-b1dc-0d00207c66f0
 | Status | Evento | Data / Período |
 |:------:|:------:|:--------------:|
 | ✔️ | Kick-off Geral | 25/08 a 29/08/2025 |
-| ✔️ | Sprint 1 | 08/09 a 28/09/2025 |
+| ✔️ | Sprint 1(https://github.com/Byte-Benders-Fatec/api-2sem-2025/blob/main/documentos/sprints/sprint-08-09-2025.md) | 08/09 a 28/09/2025 |
 | ✔️ | Sprint Review / Planning | 29/09 a 03/10/2025 |
 | ✔️ | Sprint 2 | 06/10 a 26/10/2025 |
 | ⏳ | Sprint Review / Planning | 27/10 a 31/10/2025 |
