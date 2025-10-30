@@ -11,12 +11,12 @@
 
 ## 📋 Stories selecionadas (Sprint Backlog)
 
-| ID | Rank | User Story | Estimativa (SP)
-|----|------|------------|-----------------|-------------------------|
-| 4  | Alta | Como usuário, quero visualizar minhas propriedades em uma lista para acessá-las de forma organizada. | 3 
-| 5  | Alta | Como usuário, quero ver minhas propriedades no mapa para acompanhar sua localização. | 6 
-| 6  | Alta | Como usuário, quero adicionar o Plus Code da minha propriedade para registrá-la com precisão. | 4 
-| 7  | Média | Como usuário, quero gerar um certificado digital para comprovar a posse da minha propriedade. | 3 
+| ID | Rank | User Story | Estimativa (SP)|
+|----|------|------------|-----------------|
+| 4  | Alta | Como usuário, quero visualizar minhas propriedades em uma lista para acessá-las de forma organizada. | 3 |
+| 5  | Alta | Como usuário, quero ver minhas propriedades no mapa para acompanhar sua localização. | 6 |
+| 6  | Alta | Como usuário, quero adicionar o Plus Code da minha propriedade para registrá-la com precisão. | 4 |
+| 7  | Média | Como usuário, quero gerar um certificado digital para comprovar a posse da minha propriedade. | 3 |
 
 **Total estimado:** **16 SP** (encaixa na capacidade estimada — sprint sem folga, planejamento cuidadoso necessário)
 
