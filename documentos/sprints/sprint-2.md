@@ -25,24 +25,16 @@
 ## ✅ Critérios de Sucesso / Aceitação
 
 **Story 4 — Listagem de propriedades**
-- Endpoint `/properties` retorna lista com campos mínimos (id, nome, coordenadas, PlusCode).  
 - Frontend exibe lista ordenável (por nome/data) e abre detalhe ao clicar.  
-- Teste: criar 3 propriedades de exemplo e confirmar listagem e navegação.
 
 **Story 5 — Propriedades no mapa**
-- Marcadores aparecem no mapa para todas as propriedades com coordenadas válidas.  
-- Ao tocar num marcador, abre um *callout* com nome e botão “Ver detalhes”.  
-- Performance: mapa deve carregar até 50 marcadores sem travar (teste em dispositivo real).
+- Marcadores aparecem no mapa para todas as propriedades com coordenadas válidas.
 
 **Story 6 — Cadastro do Plus Code**
 - Formulário permite inserir Plus Code, valida formato e converte para coordenadas.  
-- Backend salva Plus Code e coordenadas associadas à propriedade.  
-- Fluxo: usuário cadastra Plus Code → app mostra marcação no mapa imediata.
 
 **Story 7 — Geração de certificado PDF**
-- Backend (ou frontend) gera PDF com dados da propriedade, proprietário e código único.  
-- Usuário pode baixar/compartilhar o PDF no Android.  
-- PDF contém assinatura/identificador para validação (mínimo: selo/texto com data e id).
+- Backend (ou frontend) gera PDF com dados da propriedade, proprietário e código único pondendo baixar no smartphone.  
 
 ---
 
