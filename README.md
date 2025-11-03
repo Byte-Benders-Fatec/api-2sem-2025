@@ -84,8 +84,8 @@ https://github.com/user-attachments/assets/3613d03f-141d-46a0-b1dc-0d00207c66f0
 | ✔️ |<a href=https://github.com/Byte-Benders-Fatec/api-2sem-2025/blob/main/documentos/sprints/sprint-08-09-2025.md> Sprint 1 </a>| 08/09 a 28/09/2025 |
 | ✔️ | Sprint Review / Planning | 29/09 a 03/10/2025 |
 | ✔️ |<a href=https://github.com/Byte-Benders-Fatec/api-2sem-2025/blob/main/documentos/sprints/sprint-2.md> Sprint 2 | 06/10 a 26/10/2025 |
-| ➡️ | Sprint Review / Planning | 27/10 a 31/10/2025 |
-| ⏳ | Sprint 3 | 03/11 a 23/11/2025 |
+| ✔️ | Sprint Review / Planning | 27/10 a 31/10/2025 |
+| ➡️ | Sprint 3 | 03/11 a 23/11/2025 |
 | ⏳ | Sprint Review | 24/11 a 28/11/2025 |
 | ⏳ | Feira de Soluções | 04/12/2025 |
 
