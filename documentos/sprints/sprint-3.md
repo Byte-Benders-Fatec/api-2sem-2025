@@ -6,7 +6,7 @@ Implementar funcionalidades de **roteirização, alertas em tempo real (acidente
 ---
 
 ## 🧩 Capacidade da equipe (estimativa)
-- Capacidade estimada: **18 SP**
+- Capacidade estimada: **21 SP**
 
 ---
 
@@ -14,6 +14,7 @@ Implementar funcionalidades de **roteirização, alertas em tempo real (acidente
 
 | ID | Rank | User Story | Estimativa (SP) |
 |----|------|-------------|-----------------|
+| 7  | Alta | Como usuário, quero gerar um certificado digital para comprovar a posse da minha propriedade. | 3 |
 | 8  | Alta | Como usuário, quero traçar rotas até uma propriedade para chegar ao destino com praticidade. | 6 |
 | 9  | Alta | Como usuário, quero receber alertas de acidentes na rota para ajustar meu trajeto. | 3 |
 | 10 | Alta | Como usuário, quero visualizar alertas climáticos para planejar melhor minha viagem. | 3 |
