@@ -26,6 +26,9 @@ Implementar funcionalidades de **roteirização, alertas em tempo real (acidente
 
 ## ✅ Critérios de Sucesso / Aceitação
 
+**Story 7 — Geração de certificado PDF**
+- Backend (ou frontend) gera PDF com dados da propriedade, proprietário e código único pondendo baixar no smartphone.
+  
 **Story 8 — Roteirização até a propriedade**  
 - Usuário seleciona uma propriedade e o app exibe a rota traçada até o destino.  
 - Integração com API de rotas (Google Maps Directions API ou similar).  
